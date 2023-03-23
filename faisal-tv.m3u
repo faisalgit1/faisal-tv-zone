@@ -54,7 +54,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://10.1.1.3/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV2
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=2231ec05ecb0d7fe98b7ae87075660f29f5fe8f8-2b05f5301dfb4e6202799caa67047eac-1677763727-1677752927 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=a84dbde59880f098b45f4fd316a22f069e2a7775-8d303f1c332d93af6b5e18dce19a66b5-1679571660-1679560860
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1liqWvvfBKjOKArcyZImu88fnviWUBcAiA&usqp=CAU" group-title="খেলাধুলা", 18SPORTS 
 http://10.1.1.3/hls/bein1.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
