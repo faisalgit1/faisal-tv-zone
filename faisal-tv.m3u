@@ -58,7 +58,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV1
 http://10.1.1.3/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV2
-http://113.212.111.246:8080/hls/col2.m3u8?fbclid=IwAR2wbAZ_rACecZkRiojmKS4ewDgspbxp6vWarah_n6NlAkLcdrDsItH3tY8 
+http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bO-5yLF78bj6nZtqCUPOM1Idzq8f5uK2EA&usqp=CAU" group-title="খেলাধুলা", Star-Select-1
 http://10.1.1.3/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Star-Sports-1
