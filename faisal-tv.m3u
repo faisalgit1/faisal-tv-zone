@@ -51,12 +51,41 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV1
+http://172.16.29.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV2
+http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc3MTQ3NDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzcwNzc0MCZyYWl5YW50b2tlbmhhc2g9UXIwbXJfZDJxVUlmZ1JCWU50akNyOVc2dkJaX29uRldyd1NMeWR3bVdFWT0=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV3
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w2080018161_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc3MTQ4MDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzcwNzgwMCZyYWl5YW50b2tlbmhhc2g9Ri1xRXA0aXRkQnR3UGl6R09sNkhRS0xrS0ZOOGpKZ0NITGFsbm9mTlZ6Yz0=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rTUraoqWvM6sEeKHEd8M2XByyXvjvZKumQ&usqp=CAU" group-title="খেলাধুলা", Astro Cricket
+http://103.175.242.10:8080/ASTRO_Cricket/tracks-v1a1/mono.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা",
 Star-Sports-1
 http://172.16.29.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা",
 Star-Sports-1
-http://10.16.100.215:8082/hls/sportsLive1.m3u8
+http://103.175.242.10:8080/STARSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা",
+Star-Sports-1
+http://10.16.100.212:8080/hls/tsports.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWBLBrt9oA0N_XFHBGOBK4mDEnao1RavMxg&usqp=CAU" group-title="খেলাধুলা", Star-Sports-2
@@ -64,16 +93,7 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWBLBrt9oA0N_XFHBGOBK4mDEnao1RavMxg&usqp=CAU" group-title="খেলাধুলা", Star-Sports-2
 http://172.16.29.250/hls/starsports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
-http://chanel.dekhaott.com/Tsportshd/tracks-v1/index.fmp4.m3u8?token=7du8JE0_2OUbF0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
-http://chanel.dekhaott.com/ICCWORLDCUP/tracks-v1/index.fmp4.m3u8?token=7du8JE0_2OUbF0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV1
-http://172.16.29.250/hls/Gazi-TV.m3u8
 
 
 
@@ -92,6 +112,11 @@ http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH68vTGjBJKX33f-qApyEcP1VMIzy-0sjDFQ&usqp=CAU" group-title="খেলাধুলা", EuroSport 
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
+
+
+
+
+
 
 
 
