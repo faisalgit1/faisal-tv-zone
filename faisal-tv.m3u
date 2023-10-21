@@ -63,6 +63,7 @@ http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
 http://on-play.discoveryftp.net/stream/xFOBhT11lGMlcYWbPbWyew/1697876453/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports3
@@ -152,7 +153,5 @@ http://10.1.1.3/hls/dis-kid.m3u8
 
 
 
-#EXTINF:-1, Amanush
-http://content.discoveryftp.net/secure/Htwok9mjYmJzDLm52WPX0g/1697876998/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20%5BMovieLinkBD.com%5D%20Bangla%20WEB-DL.mkv
 
  
