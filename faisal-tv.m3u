@@ -60,11 +60,13 @@ http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
 http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w2080018161_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc3MTQ4MDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzcwNzgwMCZyYWl5YW50b2tlbmhhc2g9Ri1xRXA0aXRkQnR3UGl6R09sNkhRS0xrS0ZOOGpKZ0NITGFsbm9mTlZ6Yz0=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
+http://on-play.discoveryftp.net/stream/xFOBhT11lGMlcYWbPbWyew/1697876453/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports3
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports4
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
@@ -145,5 +147,11 @@ http://10.1.1.3/hls/starmovies.m3u8
 http://10.1.1.3/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGko3KGhtpkuFCKMDgOYUzWslNjB65JkdkMg&usqp=CAU" group-title=" কার্টুন ", Sony yoy
 http://10.1.1.3/hls/dis-kid.m3u8
+
+
+
+#EXTINF:1460, Amanush
+#EXTVLCOPT:network-caching=1000
+http://content.discoveryftp.net/secure/Htwok9mjYmJzDLm52WPX0g/1697876998/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20%5BMovieLinkBD.com%5D%20Bangla%20WEB-DL.mkv
 
  
