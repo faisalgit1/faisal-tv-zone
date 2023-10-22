@@ -62,7 +62,7 @@ http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
-http://on-play.discoveryftp.net/stream/gc23jSGWCTk4mWh2aUG-Lg/1697887894/live.m3u8
+http://on-play.discoveryftp.net/stream/n2kbS3d-Dc4y1b8Ynr6I1A/1697973954/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports3
@@ -152,10 +152,11 @@ http://10.1.1.3/hls/dis-kid.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
-http://content.discoveryftp.net/secure/6FitsEAA1E7LKobkSjt92w/1697887822/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
+http://content.discoveryftp.net/secure/0Qn7s9rYXrdMB5fUXoidzA/1697973762/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
-http://content.discoveryftp.net/secure/1JDNdwd65TvWhKiwR1cQxw/1697886967/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
+http://content.discoveryftp.net/secure/n9lGbB2abJ0NadKzoZ2Mzw/1697973858/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avater the way of water" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYW-VyQbZ4jUjNQFrxrIv_qujLuT5e14e_Eg&usqp=CAU" group-title="ছবি",Avater the way of water
-http://cds1.discoveryftp.net/Movies/English/2022/Avatar%20The%20Way%20of%20Water/Avatar.The.Way.of.Water.2022.1080p.DSNP.WEB-DL.DDP5.1.HIN%2BENG.H%20265%20HEVC.ESUB-%20%5BHasan%5D.mkv?md5=lVM5wBOLfO16LpZuiIG9mg&expires=1697884973
+http://content.discoveryftp.net/secure/i0i765wDXE9WWT2vs-YFcA/1697973372/Movies/English/2022/Avatar%20The%20Way%20of%20Water/Avatar.The.Way.of.Water.2022.1080p.DSNP.WEB-DL.DDP5.1.HIN+ENG.H%20265%20HEVC.ESUB-%20[Hasan].mkv
+
 
  
