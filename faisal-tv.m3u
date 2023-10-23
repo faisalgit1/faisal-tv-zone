@@ -151,6 +151,12 @@ http://10.1.1.3/hls/nick.m3u8
 http://10.1.1.3/hls/dis-kid.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="প্রিয়তমা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBX_Uf1UxUdeHf7h1wC8mf2Irb2jD22joQhTngyLJI5FV0aA4K" group-title="ছবি",প্রিয়তমা 
+http://bdix.binudon.com/emby/videos/194111/stream.mkv?DeviceId=9fc44d30-7a50-401d-ae29-f589b2a98220&MediaSourceId=1b0f7f5955e436a8216ba1c9c10ef965&Static=true&PlaySessionId=5df8174d66a34520bae7c7f17de712dc&api_key=71586828e4f440bdac9d1ddb43a08316
+#EXTINF:-1 tvg-id="" tvg-name="
+গলুই" tvg-logo="http://10.16.100.244/files/golui.jpg" group-title="ছবি",
+গলুই
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Bangla%20(BD)/Golui%20(2022)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
 http://content.discoveryftp.net/secure/0Qn7s9rYXrdMB5fUXoidzA/1697973762/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
@@ -159,6 +165,10 @@ http://content.discoveryftp.net/secure/n9lGbB2abJ0NadKzoZ2Mzw/1697973858/Movies/
 http://content.discoveryftp.net/secure/i0i765wDXE9WWT2vs-YFcA/1697973372/Movies/English/2022/Avatar%20The%20Way%20of%20Water/Avatar.The.Way.of.Water.2022.1080p.DSNP.WEB-DL.DDP5.1.HIN+ENG.H%20265%20HEVC.ESUB-%20[Hasan].mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avater the way of water" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="ছবি",Avater the way of water
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Way%20of%20Water%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Great Adventure in the South Seas" tvg-logo="http://images.discoveryftp.net/media/1080/Movies/Animation/2000/Doraemon%20Nobita's%20Great%20Adventure%20in%20the%20South%20Seas/poster.jpg" group-title="ছবি",Great Adventure in the South Seas
+http://content.discoveryftp.net/secure/WbXKD3VbugJYov5TUWLqQg/1698070296/Movies/Animation/2000/Doraemon%20Nobita's%20Great%20Adventure%20in%20the%20South%20Seas/02%20-%20Doraemon%20in%20Nobita's%20Great%20Adventure%20to%20the%20South%20Seas%20DUAL%20hindi%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Great Adventure Into the Underworld" tvg-logo="http://images.discoveryftp.net/media/1080/Movies/Animation/2007/Doraemon%20Nobita's%20New%20Great%20Adventure%20Into%20the%20Underworld/poster.jpg" group-title="ছবি",Great Adventure Into the Underworld
+http://content.discoveryftp.net/secure/u69O0QjPpOwQ8APOL8LFxw/1698070580/Movies/Animation/2007/Doraemon%20Nobita's%20New%20Great%20Adventure%20Into%20the%20Underworld/11%20-%20Doraemon%20The%20Movie%20Jadoo%20Mantar%20Aur%20Jahnoom%20dual%20hindi.mp4
 
 
  
