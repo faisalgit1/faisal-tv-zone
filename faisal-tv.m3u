@@ -87,8 +87,11 @@ http://172.16.29.250/hls/stersports1hd.m3u8
 Star-Sports-1
 http://103.175.242.10:8080/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা",
-Star-Sports-1
+ICC-Sports
 http://10.16.100.212:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা",
+Now-Sports
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=d37505107611afa5dbe0c131ca99f574b93ca233-84cd11b9d00f44f288aefa63edbec553-1698416331-1698405531
 
 
 
@@ -154,9 +157,7 @@ http://10.1.1.3/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="প্রিয়তমা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBX_Uf1UxUdeHf7h1wC8mf2Irb2jD22joQhTngyLJI5FV0aA4K" group-title="ছবি",প্রিয়তমা 
 http://bdix.binudon.com/emby/videos/194111/stream.mkv?DeviceId=9fc44d30-7a50-401d-ae29-f589b2a98220&MediaSourceId=1b0f7f5955e436a8216ba1c9c10ef965&Static=true&PlaySessionId=5df8174d66a34520bae7c7f17de712dc&api_key=71586828e4f440bdac9d1ddb43a08316
 
-#EXTINF:-1 tvg-id="" tvg-name="
-গলুই" tvg-logo="http://10.16.100.244/files/golui.jpg" group-title="ছবি",
-গলুই
+#EXTINF:-1 tvg-id="" tvg-name="Golui" tvg-logo="http://10.16.100.244/files/golui.jpg" group-title="ছবি",Golui
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Bangla%20(BD)/Golui%20(2022)%201080p%20WEBDL.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
@@ -171,8 +172,17 @@ http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Extraction%202%20
 #EXTINF:-1 tvg-id="" tvg-name="Avater the way of water" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="ছবি",Avater the way of water
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Way%20of%20Water%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="TrainToBusan" tvg-logo="http://10.16.100.244/files/train_to_busan__busanhaeng___hindi___english_.jpg" group-title="ছবি",TrainToBusan
+http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Train%20to%20Busan%20(Busanhaeng)%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="TrainToBusan2" tvg-logo="http://10.16.100.244/files/train_to_busan_presents__peninsula__4k_.jpg" group-title="ছবি",TrainToBusan2
 http://172.16.50.7/SAM-FTP-2/Foreign%20Language%20Movies/Korean%20Language/Train%20to%20Busan%202-Peninsula%20%282020%29%201080p%20%5BMulti%20Audio%5D/Train%20to%20Busan%202%20%282020%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%205.1%2BKorean%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Fall" tvg-logo="http://10.16.100.244/files/fall__2022___hindi___english_.jpg" group-title="ছবি",Fall
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Fall%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="http://10.16.100.244/files/iraivan.jpg" group-title="ছবি",IRAIVAN
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Iraivan%20(2023)%201080p%20WEBDL.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="1920 HORRORS OF THE HEART" tvg-logo="http://10.16.100.244/files/1920_horrors_of_the_heart.jpg" group-title="ছবি",1920 HORRORS OF THE HEART
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/1920%20Horrors%20of%20the%20Heart%20(2023)%201080p%20WEBDL.mp4
