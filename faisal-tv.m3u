@@ -83,7 +83,7 @@ http://10.16.100.212:8080/hls/PtvSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Star-Sports-1
 http://172.16.29.250/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", ICC-1
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sports(7).png" group-title="খেলাধুলা", ICC-1
 http://10.16.100.212:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Now-1
 https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=d37505107611afa5dbe0c131ca99f574b93ca233-84cd11b9d00f44f288aefa63edbec553-1698416331-1698405531
@@ -158,8 +158,17 @@ http://bdix.binudon.com/emby/videos/194111/stream.mkv?DeviceId=9fc44d30-7a50-401
 #EXTINF:-1 tvg-id="" tvg-name="Golui" tvg-logo="http://10.16.100.244/files/golui.jpg" group-title="ছবি",Golui
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Bangla%20(BD)/Golui%20(2022)%201080p%20WEBDL.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="অঙ্গার" tvg-logo="http://images.discoveryftp.net/media/1080/Movies/Bangla/2015/Angaar/poster.jpg" group-title="ছবি",অঙ্গার
+http://content.discoveryftp.net/secure/GAa2Cg6ppygrX3a9FnJHdA/1698506228/Movies/Bangla/2015/Angaar/Angaar%20(2016)%20Bengali%20WEB-DL%20H264%20AAC%201080p%20BDmusicBoss.NET.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
+http://content.discoveryftp.net/secure/OIpIbRbByjoL6y65f-4fOg/1698506384/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
 https://fs.plus.net.bd/Movies/Indian-Bangla/Amanush%20%282010%29/Amanush%20%282010%29%20Bengali%201080p%20WeBHD%20DL%20AVC%20DD%205.1%20DusIcTv.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
+http://content.discoveryftp.net/secure/taNapFLTwiwa8OZrBwIwLw/1698506523/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
 http://content.discoveryftp.net/secure/OgOc8st2nBe3ekLemGOerQ/1698156840/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
