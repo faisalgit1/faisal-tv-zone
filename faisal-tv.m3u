@@ -50,6 +50,20 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV
+http://172.21.22.2:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=c542187b43f4cdf5e09d6cf9a149300877398dbf-d9385ce25e27192082fa95165cad21b2-1698835818-1698825018
+http://172.21.22.2:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=4525ee2bee30d6e96d8d3c17f7c521a763c6dd5b-d8997ae81646dc5be6d2f5d125996040-1698833394-1698822594
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
+http://172.21.22.2:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=3cd42ee2e0747433aa1af5f39e6dceec9b705150-fb86fffbd03ee0bc026fed7271b30274-1698835881-1698825081
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Star-Sports-1
+http://172.21.22.2:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=88d3eb29948bd22b67b3bdad099f4c61d4d50b32-1d0caadd09bfdac89984a2cb85a2c4f7-1698835981-1698825181
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_6h6b3msxz5tixh-4rRmfgSuJAq83mR47ObIrD6ECVoFYI9_lMjp&usqp=CAE&s" group-title="খেলাধুলা", Ptv Sports
+http://172.21.22.2:8082/ptv/tracks-v1a1/mono.m3u8?token=c4f5c9dc752af80c76b2c2eeda7d9e706e72508a-625b26e84e76cc972f6095f3bcbd3d78-1698833646-1698822846
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1liqWvvfBKjOKArcyZImu88fnviWUBcAiA&usqp=CAU" group-title="খেলাধুলা", 18SPORTS 
+http://172.21.22.2:8082/sports-18/tracks-v1a1/mono.m3u8?token=8c5c409d9643d228569853e2a7cf62dabfcf09f0-5f596f4dce4aa6d45d90237efdf9637c-1698833707-1698822907
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV1
@@ -61,8 +75,7 @@ http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
-http://on-play.discoveryftp.net/stream/n2kbS3d-Dc4y1b8Ynr6I1A/1697973954/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports3
@@ -75,7 +88,10 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://103.175.242.10:8080/ASTRO_Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_6h6b3msxz5tixh-4rRmfgSuJAq83mR47ObIrD6ECVoFYI9_lMjp&usqp=CAE&s" group-title="খেলাধুলা", Ptv Sports
-http://10.16.100.212:8080/hls/PtvSports.m3u8
+https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=f695a19be3fbd7aeb9283aa14d54d5b70301010a-abdb88a2ea111d9cc144c5d1d1e827ea-1698834153-1698823353
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_6h6b3msxz5tixh-4rRmfgSuJAq83mR47ObIrD6ECVoFYI9_lMjp&usqp=CAE&s" group-title="খেলাধুলা", Ptv Sports
+https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=096eed15f357fff9cedd09394f6bfd7d7407cc81-d6d3e1e6904fd1fb11ed137d17a3e619-1698834238-1698823438
+
 
 
 
@@ -86,9 +102,11 @@ http://172.16.29.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/sports(7).png" group-title="খেলাধুলা", ICC-1
 http://10.16.100.212:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Now-1
-https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=d37505107611afa5dbe0c131ca99f574b93ca233-84cd11b9d00f44f288aefa63edbec553-1698416331-1698405531
+https://cdn.0123stream.com/GaziTV/tracks-v1a1/mono.m3u8?token=437dbf9f93fbf4205a2c9d6348211a9f39639673-321d5dfeedcf231a3de2485e1f478047-1698834022-1698823222
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Star-Sports-1
 http://103.175.242.10:8080/STARSPORTS1/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -158,23 +176,26 @@ http://bdix.binudon.com/emby/videos/194111/stream.mkv?DeviceId=9fc44d30-7a50-401
 #EXTINF:-1 tvg-id="" tvg-name="Golui" tvg-logo="http://10.16.100.244/files/golui.jpg" group-title="ছবি",Golui
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Bangla%20(BD)/Golui%20(2022)%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="অঙ্গার" tvg-logo="http://images.discoveryftp.net/media/1080/Movies/Bangla/2015/Angaar/poster.jpg" group-title="ছবি",অঙ্গার
-http://content.discoveryftp.net/secure/GAa2Cg6ppygrX3a9FnJHdA/1698506228/Movies/Bangla/2015/Angaar/Angaar%20(2016)%20Bengali%20WEB-DL%20H264%20AAC%201080p%20BDmusicBoss.NET.mkv
+#EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
+http://content.discoveryftp.net/secure/GR-z4O7wim7RcsAZG_947A/1698834901/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
-http://content.discoveryftp.net/secure/OIpIbRbByjoL6y65f-4fOg/1698506384/Movies/Bangla/2010/Amanush/Amanush%202010%20720p%20[MovieLinkBD.com]%20Bangla%20WEB-DL.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="অমানুষ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDw0HIc0YbnKGZk2avJWVhQjyl_k5WQgzG8g&usqp=CAU" group-title="ছবি",অমানুষ
-https://fs.plus.net.bd/Movies/Indian-Bangla/Amanush%20%282010%29/Amanush%20%282010%29%20Bengali%201080p%20WeBHD%20DL%20AVC%20DD%205.1%20DusIcTv.mkv
+http://ctghall.com/Data/Movies/Indian-Bangla/Amanush%20(2010)/Amanush%20(2010)%20Bengali%201080p%20WeBHD%20DL%20AVC%20DD%205.1%20DusIcTv.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
-http://content.discoveryftp.net/secure/taNapFLTwiwa8OZrBwIwLw/1698506523/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
+http://content.discoveryftp.net/secure/dQFztoLnL1oqmcxcNldtNA/1698834891/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
 http://content.discoveryftp.net/secure/OgOc8st2nBe3ekLemGOerQ/1698156840/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Extraction2" tvg-logo="http://10.16.100.244/files/extraction_2__hindi___english_.jpg" group-title="ছবি",Extraction 2
+http://ctghall.com/Data/Movies/English/2023//Extraction%202%20(2023)/Extraction%202%202023%20Dual%20Audio%20Hindi%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Extraction2" tvg-logo="http://10.16.100.244/files/extraction_2__hindi___english_.jpg" group-title="ছবি",Extraction 2
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Extraction%202%20(2023)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CHANDRAMUKHI2" tvg-logo="http://10.16.100.244/files/chandramukhi_2.jpg" group-title="ছবি",CHANDRAMUKHI 2
+http://172.16.50.9/SAM-FTP-1/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282023%29/Chandramukhi%202%20%282023%29%20720p%20%28Hindi%20Dubbed%29/Chandramukhi%202%20%282023%29%20Hindi%20Dubbed%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20Downloadhub.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CHANDRAMUKHI2" tvg-logo="http://10.16.100.244/files/chandramukhi_2.jpg" group-title="ছবি",CHANDRAMUKHI 2
 http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/South%20Indian%20(Hindi%20Dubbed)/Chandramukhi%202%20(2023)%201080p%20WEBDL.mp4
