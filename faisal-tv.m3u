@@ -50,37 +50,24 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV
-http://172.21.22.2:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=c542187b43f4cdf5e09d6cf9a149300877398dbf-d9385ce25e27192082fa95165cad21b2-1698835818-1698825018
-http://172.21.22.2:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=4525ee2bee30d6e96d8d3c17f7c521a763c6dd5b-d8997ae81646dc5be6d2f5d125996040-1698833394-1698822594
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports
-http://172.21.22.2:8082/T-Sportss/tracks-v1a1/mono.m3u8?token=3cd42ee2e0747433aa1af5f39e6dceec9b705150-fb86fffbd03ee0bc026fed7271b30274-1698835881-1698825081
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauVvYZZRt2hGS_SwK2ToV3mnR05wZ5kO35A&usqp=CAU" group-title="খেলাধুলা", Star-Sports-1
-http://172.21.22.2:8082/stersports1hd/tracks-v1a1/mono.m3u8?token=88d3eb29948bd22b67b3bdad099f4c61d4d50b32-1d0caadd09bfdac89984a2cb85a2c4f7-1698835981-1698825181
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_6h6b3msxz5tixh-4rRmfgSuJAq83mR47ObIrD6ECVoFYI9_lMjp&usqp=CAE&s" group-title="খেলাধুলা", Ptv Sports
-http://172.21.22.2:8082/ptv/tracks-v1a1/mono.m3u8?token=c4f5c9dc752af80c76b2c2eeda7d9e706e72508a-625b26e84e76cc972f6095f3bcbd3d78-1698833646-1698822846
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1liqWvvfBKjOKArcyZImu88fnviWUBcAiA&usqp=CAU" group-title="খেলাধুলা", 18SPORTS 
-http://172.21.22.2:8082/sports-18/tracks-v1a1/mono.m3u8?token=8c5c409d9643d228569853e2a7cf62dabfcf09f0-5f596f4dce4aa6d45d90237efdf9637c-1698833707-1698822907
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV1
 http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV2
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV3
+http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w719996707_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTg5Mjk2ODAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5ODkyMjY4MCZyYWl5YW50b2tlbmhhc2g9TGVHVG5Ka2JCTjdjR3NUVVh2Z2NqRlNyaVZTWHNaSThreTM0VUprSVVjaz0=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="খেলাধুলা", G TV4
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1705736616_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc3MTQ3NDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzcwNzc0MCZyYWl5YW50b2tlbmhhc2g9UXIwbXJfZDJxVUlmZ1JCWU50akNyOVc2dkJaX29uRldyd1NMeWR3bVdFWT0=.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
+http://103.175.242.10:8080/TSPORTS2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
-http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w1350043712_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTg5Mjk2ODAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5ODkyMjY4MCZyYWl5YW50b2tlbmhhc2g9M2xKNlJVVHJORktIMERoNDhoVXNPNElDSC1IdmdOeXkyNmlCNjhBcWhObz0=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports3
-http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w2080018161_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTc3MTQ4MDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzcwNzgwMCZyYWl5YW50b2tlbmhhc2g9Ri1xRXA0aXRkQnR3UGl6R09sNkhRS0xrS0ZOOGpKZ0NITGFsbm9mTlZ6Yz0=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports4
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
@@ -185,8 +172,8 @@ http://ctghall.com/Data/Movies/Indian-Bangla/Amanush%20(2010)/Amanush%20(2010)%2
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
 http://content.discoveryftp.net/secure/dQFztoLnL1oqmcxcNldtNA/1698834891/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
-http://content.discoveryftp.net/secure/OgOc8st2nBe3ekLemGOerQ/1698156840/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="http://ctghall.com//Admin/main/images/tt15354916/poster//w4mPBAfZS5yIXOcqEiEOL8fnuQG.jpg" group-title="ছবি",Jawan (2023)
+http://ctghall.com/Data/Movies/Hindi/2023/Jawan%20%282023%29/Jawan.Extended.Cut.2023.1080p.HD.DesireMoVies.DAD.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Extraction2" tvg-logo="http://10.16.100.244/files/extraction_2__hindi___english_.jpg" group-title="ছবি",Extraction 2
 http://ctghall.com/Data/Movies/English/2023//Extraction%202%20(2023)/Extraction%202%202023%20Dual%20Audio%20Hindi%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
@@ -213,7 +200,16 @@ http://172.16.50.7/SAM-FTP-2/Foreign%20Language%20Movies/Korean%20Language/Train
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Fall%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="http://10.16.100.244/files/iraivan.jpg" group-title="ছবি",IRAIVAN
+http://ctgstream.com/emby/videos/372668/stream.mkv?DeviceId=5bbcdbce-9028-4111-8779-78dde6dbbc7d&MediaSourceId=434048613fe56875616abcb64bb90cad&Static=true&PlaySessionId=3b9d68c9f9864480a283c15b4be5f37b&api_key=605f51375e944020a80402b7d9058b69
+
+#EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="http://10.16.100.244/files/iraivan.jpg" group-title="ছবি",IRAIVAN
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Iraivan%20(2023)%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Junglee (2019)" tvg-logo="http://103.222.20.150//Admin/main/images/tt7463730/poster/original//4Jwof1qQ6U99TZFkBCngBdfW8J2.jpg" group-title="ছবি",Junglee (2019)
+http://103.222.20.150/ftpdata/Movies/Bollywood/2019/Junglee%20(2019)/Junglee.2019.Hindi.1080p%20[CiTYCloud].mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="1920 HORRORS OF THE HEART" tvg-logo="http://ctghall.com//Admin/main/images/tt25403492/poster//7bm5k5zwGGvLKelMtbffL4AOH6Y.jpg" group-title="ছবি",1920 HORRORS OF THE HEART
+http://ctghall.com/Data/Movies/Hindi/2023//1920%20Horrors%20Of%20The%20Heart%20(2023)/1920.Horrors.Of.The.Heart.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="1920 HORRORS OF THE HEART" tvg-logo="http://10.16.100.244/files/1920_horrors_of_the_heart.jpg" group-title="ছবি",1920 HORRORS OF THE HEART
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/1920%20Horrors%20of%20the%20Heart%20(2023)%201080p%20WEBDL.mp4
