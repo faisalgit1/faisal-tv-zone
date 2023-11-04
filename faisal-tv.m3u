@@ -61,7 +61,6 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports1
 http://103.175.242.10:8080/TSPORTS2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="খেলাধুলা", T-Sports2
@@ -170,6 +169,15 @@ http://ctghall.com/Data/Movies/Indian-Bangla/Amanush%20(2010)/Amanush%20(2010)%2
 
 #EXTINF:-1 tvg-id="" tvg-name="গেম" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjD5AOgq-qd-YkO_ZllSzTlDUssGnsswcLQ&usqp=CAU" group-title="ছবি",গেম
 http://content.discoveryftp.net/secure/dQFztoLnL1oqmcxcNldtNA/1698834891/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="http://ctghall.com//Admin/main/images/tt15354916/poster//w4mPBAfZS5yIXOcqEiEOL8fnuQG.jpg" group-title="ছবি",Jawan (2023)
+http://content.discoveryftp.net/secure/GPxgLdZs_a1MpIr70uzLXw/1699091447/Movies/Hindi/2023/Jawan/Jawan.Extended.Cut.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Sky.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="http://ctghall.com//Admin/main/images/tt15354916/poster//w4mPBAfZS5yIXOcqEiEOL8fnuQG.jpg" group-title="ছবি",Jawan (2023)
+http://103.222.20.150/ftpdata/Movies/Bollywood/2023/Jawan%20(2023)/Jawan.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="http://ctghall.com//Admin/main/images/tt15354916/poster//w4mPBAfZS5yIXOcqEiEOL8fnuQG.jpg" group-title="ছবি",Jawan (2023)
+http://cdn.ihub.live:8082/ftp2/bollywood/2023/Jawan%20%282023%29/Jawan.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="http://ctghall.com//Admin/main/images/tt15354916/poster//w4mPBAfZS5yIXOcqEiEOL8fnuQG.jpg" group-title="ছবি",Jawan (2023)
 http://ctghall.com/Data/Movies/Hindi/2023/Jawan%20%282023%29/Jawan.Extended.Cut.2023.1080p.HD.DesireMoVies.DAD.mkv
