@@ -200,17 +200,11 @@ http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Wa
 #EXTINF:-1 tvg-id="" tvg-name="TrainToBusan" tvg-logo="http://10.16.100.244/files/train_to_busan__busanhaeng___hindi___english_.jpg" group-title="ছবি",TrainToBusan
 http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Train%20to%20Busan%20(Busanhaeng)%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="TrainToBusan2" tvg-logo="http://10.16.100.244/files/train_to_busan_presents__peninsula__4k_.jpg" group-title="ছবি",TrainToBusan2
-http://172.16.50.7/SAM-FTP-2/Foreign%20Language%20Movies/Korean%20Language/Train%20to%20Busan%202-Peninsula%20%282020%29%201080p%20%5BMulti%20Audio%5D/Train%20to%20Busan%202%20%282020%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%205.1%2BKorean%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Fall" tvg-logo="http://10.16.100.244/files/fall__2022___hindi___english_.jpg" group-title="ছবি",Fall
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/Fall%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="http://10.16.100.244/files/iraivan.jpg" group-title="ছবি",IRAIVAN
-http://ctgstream.com/emby/videos/372668/stream.mkv?DeviceId=5bbcdbce-9028-4111-8779-78dde6dbbc7d&MediaSourceId=434048613fe56875616abcb64bb90cad&Static=true&PlaySessionId=3b9d68c9f9864480a283c15b4be5f37b&api_key=605f51375e944020a80402b7d9058b69
-
-#EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="http://10.16.100.244/files/iraivan.jpg" group-title="ছবি",IRAIVAN
-http://10.16.100.202/ftps10/iccftps10sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Iraivan%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attack Part 1" tvg-logo="http://image.tmdb.org/t/p/w500/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg" group-title="ছবি",Attack Part 1
+http://moviehaat.net/Data1/movies/bollywood/2022/Attack%20(2022)/Attack%20Part%201%202022%20Hindi%201080p%20Zee5%20WEBRip%20DD%205.1%20ESubs%20x264%20-%20mkvAnime.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Junglee (2019)" tvg-logo="http://103.222.20.150//Admin/main/images/tt7463730/poster/original//4Jwof1qQ6U99TZFkBCngBdfW8J2.jpg" group-title="ছবি",Junglee (2019)
 http://103.222.20.150/ftpdata/Movies/Bollywood/2019/Junglee%20(2019)/Junglee.2019.Hindi.1080p%20[CiTYCloud].mp4
