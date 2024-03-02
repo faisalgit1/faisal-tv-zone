@@ -170,8 +170,11 @@ http://content.discoveryftp.net/secure/dQFztoLnL1oqmcxcNldtNA/1698834891/Movies/
 #EXTINF:-1 tvg-id="" tvg-name="AQUAMAN AND THE LOST KINGDOM" tvg-logo="http://10.16.100.244/files/aquaman_and_the_lost_kingdom__hindi___english_.jpeg" group-title="ছবি",AQUAMAN AND THE LOST KINGDOM
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Dual%20Audio/Aquaman%20and%20The%20Lost%20Kingdom%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Extraction2" tvg-logo="http://10.16.100.244/files/extraction_2__hindi___english_.jpg" group-title="ছবি",Extraction 2
-http://ctghall.com/Data/Movies/English/2023//Extraction%202%20(2023)/Extraction%202%202023%20Dual%20Audio%20Hindi%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aankh Micholi" tvg-logo="http://10.1.1.1/Admin/main/images/tt11433822/poster/3di6GxX88WeMo9IjMt8BwW9wOq1.jpg" group-title="ছবি",Aankh Micholi
+http://bdix.binudon.com/emby/videos/199039/stream.mp4?DeviceId=9fc44d30-7a50-401d-ae29-f589b2a98220&MediaSourceId=167e28285109c37ffdd5019a736f14a8&Static=true&PlaySessionId=d1f69e20c75643ce891414d67fc9d614&api_key=71586828e4f440bdac9d1ddb43a08316
+
+#EXTINF:-1 tvg-id="" tvg-name="Aankh Micholi" tvg-logo="http://10.1.1.1/Admin/main/images/tt11433822/poster/3di6GxX88WeMo9IjMt8BwW9wOq1.jpg" group-title="ছবি",Aankh Micholi
+http://10.1.1.1/Data/Hindi/2023/Aankh%20Micholi%20(2023)/Aankh%20Micholi%20(2023)1080p.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Extraction2" tvg-logo="http://10.16.100.244/files/extraction_2__hindi___english_.jpg" group-title="ছবি",Extraction 2
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Extraction%202%20(2023)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
